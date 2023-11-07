@@ -1,10 +1,55 @@
----
-marp: true
-theme: gaia
-headingDivider: 1
+# 占星
+
+> everyone has his own hero path
+
 ---
 
-# 宮位(1)
+# metropolis
+
+- beige
+- sky
+- night
+- serif
+- simple
+- solarized
+
+---
+
+# code
+
+> show me the `code`
+
+```python
+def shing_gor(yo: str):
+  for i in range(10)
+    print(i)
+  return 'ho yeah 🎉'
+```
+
+---
+
+# 行星能量
+
+- 個人特質：日月水金火
+- 木星：資源
+- 土星：限制
+- 天王星：改革
+- 海王星：因夢想而引發的狂熱
+- 冥王星：待發掘的恐懼與寶藏
+
+---
+
+# Notes about Obsidian
+
+A knowledge base that *works* on local ==Markdown== files
+
+## Link
+
+Link to **Obsidian** Homepage: http://obsidian.md
+
+---
+
+# 宮位 (1)
 
 | 宮  | 舞台                             |
 | --- | -------------------------------- |
@@ -14,14 +59,10 @@ headingDivider: 1
 | 4   | 家庭、房屋（土地）、內心之家     |
 | 5   | 愛情、子女、創造力、投機（偏財） |
 | 6   | 職業、工作、健康、生活的態度     |
-| 7   | 伴侶、重要他人、合夥關係         |
-| 8   | 共同錢財（投資）、性、深層的渴望 |
-| 9   | 長途旅行、高等教育、信念         |
-| 10  | 社會地位、成就、事業／志業       |
-| 11  | 社群、友誼                       |
-| 12  | 潛意識、前世                     |
 
-# 宮位(2)
+---
+
+# 宮位 (2)
 
 | 宮  | 舞台                             |
 | --- | -------------------------------- |
@@ -32,7 +73,9 @@ headingDivider: 1
 | 11  | 社群、友誼                       |
 | 12  | 潛意識、前世                     |
 
-# 星座(1)
+---
+
+# 星座 (1)
 
 | 座   | 守  | key  | 特質 |
 | ---- | --- | ---- | ---- |
@@ -43,7 +86,9 @@ headingDivider: 1
 | 獅子 | 日  | 力量 |      |
 | 處女 | 水  | 服務 |      |
 
-# 星座(2)
+---
+
+# 星座 (2)
 
 | 座   | 守  | key  | 特質 |
 | ---- | --- | ---- | ---- |
@@ -54,6 +99,8 @@ headingDivider: 1
 | 水瓶 | 天  | 理她 |      |
 | 雙魚 | 海  | 同情 |      |
 
+---
+
 # 四分 / 三分
 
 | 四分        | 啟動 | 固定 | 變動 |
@@ -62,6 +109,8 @@ headingDivider: 1
 | 土象 - 感官 | ♉   | ♍   | ♑   |
 | 風象 - 思維 | ♊   | ♎   | ♒   |
 | 水象 - 情緒 | ♋   | ♏   | ♓   |
+
+---
 
 # 對宮
 
