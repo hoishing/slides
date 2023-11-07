@@ -14,7 +14,9 @@ Slides are located in `docs` folder
   - Use git to track changes
   - Pull requests to collaborate
   - Deploy as website automatically
-  - Use github issue for problems / discussion
+
+# - Use github issue for problems / discussion
+
 - harness markdown ecosystem
   - integrate with note taking system, eg Obsidian
   - full text editor support, eg vscode
