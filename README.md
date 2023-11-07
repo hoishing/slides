@@ -1,3 +1,8 @@
+---
+marp: true
+theme: gaia
+headingDivider: 1
+---
 # Slides to Github Pages
 
 This repo contains slides converted from markdown files using [Marp] and [marp-to-pages]
