@@ -1,10 +1,12 @@
 ---
+marp: true
 class: invert
+math: mathjax
 ---
 
 # marp
 
-> quick slide generation with markdown
+> quick slides generation with markdown
 
 ---
 
@@ -12,9 +14,9 @@ class: invert
 
 > how to define new slide
 
-- by front matter 
+- by front matter
   - `headingDivider: 1` <-- use H1 to create new slide
-  - `headingDivider: 2` <-- use both H1 and H2 
+  - `headingDivider: 2` <-- use both H1 and H2
 
 - by markdown divider
   - `---`
@@ -38,11 +40,11 @@ class: invert
 
 # LaTeX support
 
-### inline `$ ... $`
+- inline `$ ... $`
 
-inline math example: $ax^2+bc+c$
+  write equation $ax^2+bc+c$ inline like this
 
-### block `$$ ... $$`
+- block `$$ ... $$`
 
 $$ \int_0^1 \frac{dx}{e^x} = \frac{e-1}{e} $$
 
@@ -80,6 +82,18 @@ footer: '[![github-icon]][hoishing]' # quote markdown
 [github-icon]: https://api.iconify.design/mdi/github.svg
 [hoishing]: https://hoishing.github.io
 ```
+
+---
+
+# export
+
+- single html
+  - easy to deploy on any static host 👍
+- pdf
+  - well formatted
+- pptx
+  - can't edit text ⚠️
+  - just static images embed in pptx
 
 ---
 
