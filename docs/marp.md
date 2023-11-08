@@ -4,13 +4,13 @@ class: invert
 math: mathjax
 ---
 
-# marp
+# Marp
 
 > quick slides generation with markdown
 
 ---
 
-# divider
+# Divider
 
 > how to define new slide
 
@@ -23,7 +23,7 @@ math: mathjax
 
 ---
 
-# formatting
+# Formatting
 
 - format single page with HTML comment started with `_`
 `<!-- _class: invert -->` color inversion = dark mode
@@ -38,7 +38,7 @@ math: mathjax
 
 ---
 
-# LaTeX support
+# LaTeX Support
 
 - inline `$ ... $`
 
@@ -50,7 +50,7 @@ $$ \int_0^1 \frac{dx}{e^x} = \frac{e-1}{e} $$
 
 ---
 
-# front matter directives
+# Front Matter Directives
 
 > ref: https://marpit.marp.app/directives
 
@@ -65,7 +65,7 @@ $$ \int_0^1 \frac{dx}{e^x} = \frac{e-1}{e} $$
 
 ---
 
-# front matter example
+# Front Matter Example
 
 > global setup
 
@@ -85,7 +85,7 @@ footer: '[![github-icon]][hoishing]' # quote markdown
 
 ---
 
-# export
+# Export
 
 - single html
   - easy to deploy on any static host 👍
@@ -97,9 +97,28 @@ footer: '[![github-icon]][hoishing]' # quote markdown
 
 ---
 
-# ecosystem
+# Marp to Github Pages
+
+- a github template to create repo for:
+  - convert your md files to slides with Marp
+  - publish your slides as website on GitHub Pages
+  - auto deploy with Github Actions on `git push`
+- repo: https://github.com/ralexander-phi/marp-to-pages
+
+---
+
+# Ecosystem
 
 - vscode plugin: https://github.com/marp-team/marp-vscode
 - obsidian plugin: https://github.com/JichouP/obsidian-marp-plugin
 - marp to github page: https://github.com/ralexander-phi/marp-to-pages
+- online playground: https://web.marp.app
 - marp-core: https://github.com/marp-team/marp-core
+
+---
+
+# Source
+
+- original markdown of these slides:
+  
+  https://github.com/hoishing/slides/blob/main/docs/marp.md?plain=1
