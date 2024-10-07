@@ -6,7 +6,7 @@ headingDivider: 2
 
 # Markdown to Github Pages
 
-> my personal repo contains slides converted from markdown
+> slides converted from markdown
 
 - repo created by [marp-to-pages] template
 - slide conversion with [Marp]
@@ -34,11 +34,11 @@ see my [blog post] for details about it
 
 # Marp Ecosystem
 
-- vscode plugin: https://github.com/marp-team/marp-vscode
-- obsidian plugin: https://github.com/JichouP/obsidian-marp-plugin
-- marp to github page: https://github.com/ralexander-phi/marp-to-pages
-- marp playground: https://web.marp.app
-- marp-core: https://github.com/marp-team/marp-core
+- vscode plugin: <https://github.com/marp-team/marp-vscode>
+- obsidian plugin: <https://github.com/JichouP/obsidian-marp-plugin>
+- marp to github page: <https://github.com/ralexander-phi/marp-to-pages>
+- marp playground: <https://web.marp.app>
+- marp-core: <https://github.com/marp-team/marp-core>
 
 [sample slides]: https://hoishing.github.io/slides/docs/marp.html
 [Marp]: https://github.com/marp-team/marp
